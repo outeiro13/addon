@@ -10,5 +10,11 @@
 <externallink>https://raw.githubusercontent.com/stunouteiro/addon/main/FILMES.XML</externallink>
 </channel>
 
-
+<channel>
+<name>[B][COLOR blue]  TVONLINE+18   [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<externallink></externallink>
+</channel>
 </channels>
